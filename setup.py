@@ -23,7 +23,7 @@ setuptools.setup(
     package_data={"tonutils": ["py.typed"]},
     python_requires=">=3.10",
     install_requires=[
-        "aiohttp~=3.9.5",
+        "aiohttp~=3.11.9",
         "pycryptodomex~=3.20.0",
         "PyNaCl~=1.5.0",
         "pytoniq-core~=0.1.36",
